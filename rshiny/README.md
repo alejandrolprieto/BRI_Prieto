@@ -5,8 +5,8 @@ RShiny Script Example:
 - Begin by running the analysis called "example.R"
 - Then, with the populated environments, run the 'shiny.R' script to create a webapp from the results.
 
-Note:
+Important Note:
 -
-- The RShiny webapp will only work if the environments from 'example.R' are ran first.
-- You have the option to expand the window to open in your chosen browser.
-- Make sure all connections make sense and your working direcctory are changed to reflect your own working directoy.
+1. The RShiny webapp will only work if the environments from 'example.R' are ran first.
+2. You have the option to expand the window to open in your chosen browser.
+3. Make sure all connections make sense and your working direcctory are changed to reflect your own working directoy.
