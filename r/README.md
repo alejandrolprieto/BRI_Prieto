@@ -6,3 +6,5 @@ R Script Example:
 - This works best if you have these same folder (with its contents) in the same working directory.
 - Be sure to install all packages listed.
 - If this is done, then the code should be able to run hands-free.
+- Start with script labeled '0.' then follow numerically to '2.0'.
+
