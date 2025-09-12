@@ -1,4 +1,4 @@
-Simple Cartography Script for Python:
+Python Script Example:
 -
 - I created this script originally for a tutorial in 2024.
 - This is some basic cartographic tools that maps out California.
