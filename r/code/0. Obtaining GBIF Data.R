@@ -41,7 +41,7 @@
 #   then this code will NOT obtain all data for your desired taxon.
 
 # Always establish a working directory
-d <- "~/BRI_Prieto_Example Work/r" # Change to your folder path
+d <- "~/BRI_Prieto/r" # Change to your folder path
 setwd(d)
 
 # Begin by installing this package
@@ -173,7 +173,7 @@ library(stringdist)
 rm(list = ls())
 
 # Set your Working directory
-d <- "~/BRI_Prieto_Example Work/r" # Change to your folder path
+d <- "~/BRI_Prieto/r" # Change to your folder path
 setwd(d)
 
 # Now, lets go in and clean the occurrence data since there certain errors 

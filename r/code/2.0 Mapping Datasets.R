@@ -8,7 +8,7 @@ library(dplyr)
 rm(list = ls())
 
 # Set working directory to the folder where all materials are
-d <- "~/BRI_Prieto_Example Work/r" 
+d <- "~/BRI_Prieto/r" 
 setwd(d)
 
 # Recall last csv. made in the previous section

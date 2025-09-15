@@ -12,7 +12,7 @@ rm(list = ls())
 
 
 # Set working directory to the folder where all materials are
-d <- "~/BRI_Prieto_Example Work/r" 
+d <- "~/BRI_Prieto/r" 
 setwd(d)
 
 # Next, create a folder where all the figures will be saved 
