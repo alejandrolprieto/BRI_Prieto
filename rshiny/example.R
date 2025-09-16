@@ -99,7 +99,7 @@ select <- dplyr::select # ensure the select function is coming from dplyr
 ## For this example, I've gone through all the cleaning beforehand, just load 
 ##  the cleaned .csv file!
 
-d <- "~/BRI_Prieto_Example Work/rshiny"
+d <- "~/Github/BRI_Prieto/rshiny"
 setwd(d)
 
 # Load data
